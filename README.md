@@ -6,3 +6,5 @@
 * BeautifulSoup4
   * Install it with `conda install beautifulsoup4` or `pip install BeautifulSoup`
   
+  
+  use lots of `apply`s
