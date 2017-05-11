@@ -1,0 +1,267 @@
+{
+  "lists" : [ {
+    "stats" : {
+      "averages" : {
+        "goals" : 16.2,
+        "behinds" : 12.0,
+        "superGoals" : null,
+        "kicks" : 187.9,
+        "handballs" : 122.1,
+        "disposals" : 310.0,
+        "marks" : 90.3,
+        "bounces" : 17.5,
+        "tackles" : 41.2,
+        "contestedPossessions" : 112.3,
+        "uncontestedPossessions" : 195.8,
+        "totalPossessions" : 308.0,
+        "inside50s" : 50.1,
+        "marksInside50" : 14.4,
+        "contestedMarks" : 11.8,
+        "hitouts" : 35.8,
+        "onePercenters" : 36.9,
+        "disposalEfficiency" : 79.3,
+        "clangers" : 33.7,
+        "freesFor" : 15.1,
+        "freesAgainst" : 14.6,
+        "dreamTeamPoints" : 1360.2,
+        "clearances" : {
+          "centreClearances" : 13.9,
+          "stoppageClearances" : 20.8,
+          "totalClearances" : 34.7
+        },
+        "rebound50s" : 35.6,
+        "goalAssists" : 9.1,
+        "goalAccuracy" : 57.6,
+        "ratingPoints" : null,
+        "ranking" : null,
+        "lastUpdated" : null,
+        "turnovers" : null,
+        "intercepts" : null,
+        "tacklesInside50" : null,
+        "shotsAtGoal" : null,
+        "goalEfficiency" : null,
+        "shotEfficiency" : null,
+        "interchangeCounts" : null,
+        "scoreInvolvements" : null,
+        "metresGained" : null
+      },
+      "totals" : {
+        "goals" : 17.0,
+        "behinds" : 11.0,
+        "superGoals" : null,
+        "kicks" : 200.0,
+        "handballs" : 95.0,
+        "disposals" : 295.0,
+        "marks" : 95.0,
+        "bounces" : 23.0,
+        "tackles" : 36.0,
+        "contestedPossessions" : 119.0,
+        "uncontestedPossessions" : 173.0,
+        "totalPossessions" : 292.0,
+        "inside50s" : 52.0,
+        "marksInside50" : 12.0,
+        "contestedMarks" : 13.0,
+        "hitouts" : 28.0,
+        "onePercenters" : 35.0,
+        "disposalEfficiency" : 74.2,
+        "clangers" : 40.0,
+        "freesFor" : 13.0,
+        "freesAgainst" : 17.0,
+        "dreamTeamPoints" : 1322.0,
+        "clearances" : {
+          "centreClearances" : 14.0,
+          "stoppageClearances" : 18.0,
+          "totalClearances" : 32.0
+        },
+        "rebound50s" : 37.0,
+        "goalAssists" : 11.0,
+        "goalAccuracy" : 54.8,
+        "ratingPoints" : null,
+        "ranking" : null,
+        "lastUpdated" : null,
+        "turnovers" : null,
+        "intercepts" : null,
+        "tacklesInside50" : null,
+        "shotsAtGoal" : null,
+        "goalEfficiency" : null,
+        "shotEfficiency" : null,
+        "interchangeCounts" : null,
+        "scoreInvolvements" : null,
+        "metresGained" : null
+      }
+    },
+    "team" : {
+      "teamId" : "CD_T110",
+      "teamAbbr" : "PORT",
+      "teamName" : "Port Adelaide",
+      "teamNickname" : "Power"
+    }
+  }, {
+    "stats" : {
+      "averages" : {
+        "goals" : 16.1,
+        "behinds" : 13.4,
+        "superGoals" : null,
+        "kicks" : 186.6,
+        "handballs" : 116.0,
+        "disposals" : 302.6,
+        "marks" : 80.5,
+        "bounces" : 12.8,
+        "tackles" : 47.2,
+        "contestedPossessions" : 125.6,
+        "uncontestedPossessions" : 175.7,
+        "totalPossessions" : 301.2,
+        "inside50s" : 55.5,
+        "marksInside50" : 14.0,
+        "contestedMarks" : 11.4,
+        "hitouts" : 34.0,
+        "onePercenters" : 47.6,
+        "disposalEfficiency" : 76.5,
+        "clangers" : 35.6,
+        "freesFor" : 13.3,
+        "freesAgainst" : 15.2,
+        "dreamTeamPoints" : 1334.3,
+        "clearances" : {
+          "centreClearances" : 14.2,
+          "stoppageClearances" : 22.1,
+          "totalClearances" : 36.3
+        },
+        "rebound50s" : 34.4,
+        "goalAssists" : 9.6,
+        "goalAccuracy" : 55.4,
+        "ratingPoints" : null,
+        "ranking" : null,
+        "lastUpdated" : null,
+        "turnovers" : null,
+        "intercepts" : null,
+        "tacklesInside50" : null,
+        "shotsAtGoal" : null,
+        "goalEfficiency" : null,
+        "shotEfficiency" : null,
+        "interchangeCounts" : null,
+        "scoreInvolvements" : null,
+        "metresGained" : null
+      },
+      "totals" : {
+        "goals" : 10.0,
+        "behinds" : 13.0,
+        "superGoals" : null,
+        "kicks" : 151.0,
+        "handballs" : 108.0,
+        "disposals" : 259.0,
+        "marks" : 77.0,
+        "bounces" : 10.0,
+        "tackles" : 44.0,
+        "contestedPossessions" : 105.0,
+        "uncontestedPossessions" : 159.0,
+        "totalPossessions" : 264.0,
+        "inside50s" : 47.0,
+        "marksInside50" : 10.0,
+        "contestedMarks" : 10.0,
+        "hitouts" : 28.0,
+        "onePercenters" : 45.0,
+        "disposalEfficiency" : 73.0,
+        "clangers" : 46.0,
+        "freesFor" : 17.0,
+        "freesAgainst" : 13.0,
+        "dreamTeamPoints" : 1155.0,
+        "clearances" : {
+          "centreClearances" : 10.0,
+          "stoppageClearances" : 21.0,
+          "totalClearances" : 31.0
+        },
+        "rebound50s" : 33.0,
+        "goalAssists" : 5.0,
+        "goalAccuracy" : 45.5,
+        "ratingPoints" : null,
+        "ranking" : null,
+        "lastUpdated" : null,
+        "turnovers" : null,
+        "intercepts" : null,
+        "tacklesInside50" : null,
+        "shotsAtGoal" : null,
+        "goalEfficiency" : null,
+        "shotEfficiency" : null,
+        "interchangeCounts" : null,
+        "scoreInvolvements" : null,
+        "metresGained" : null
+      }
+    },
+    "team" : {
+      "teamId" : "CD_T20",
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    }
+  } ],
+  "sortCategories" : [ {
+    "value" : "disposals",
+    "label" : "Disposals"
+  }, {
+    "value" : "contestedPossessions",
+    "label" : "Contested Possessions"
+  }, {
+    "value" : "clearances",
+    "label" : "Clearances"
+  }, {
+    "value" : "disposalEfficiency",
+    "label" : "Disposal Efficiency"
+  }, {
+    "value" : "inside50s",
+    "label" : "Inside 50s"
+  }, {
+    "value" : "shotEfficiency",
+    "label" : "Efficiency Inside 50"
+  }, {
+    "value" : "goals",
+    "label" : "Goals"
+  }, {
+    "value" : "goalAccuracy",
+    "label" : "Goal Accuracy"
+  }, {
+    "value" : "goalAssists",
+    "label" : "Goal Assists"
+  }, {
+    "value" : "marks",
+    "label" : "Marks"
+  }, {
+    "value" : "contestedMarks",
+    "label" : "Contested Marks"
+  }, {
+    "value" : "marksInside50",
+    "label" : "Marks Inside 50"
+  }, {
+    "value" : "intercepts",
+    "label" : "Intercepts"
+  }, {
+    "value" : "rebound50s",
+    "label" : "Rebound 50s"
+  }, {
+    "value" : "turnovers",
+    "label" : "Turn Overs"
+  }, {
+    "value" : "tackles",
+    "label" : "Tackles"
+  }, {
+    "value" : "tacklesInside50",
+    "label" : "Tackles Inside 50"
+  }, {
+    "value" : "kicks",
+    "label" : "Kicks"
+  }, {
+    "value" : "handballs",
+    "label" : "Handballs"
+  }, {
+    "value" : "bounces",
+    "label" : "Bounces"
+  }, {
+    "value" : "hitouts",
+    "label" : "Hitouts"
+  }, {
+    "value" : "freesFor",
+    "label" : "Frees for"
+  }, {
+    "value" : "freesAgainst",
+    "label" : "Frees against"
+  } ]
+}
